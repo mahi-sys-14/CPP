@@ -1,4 +1,10 @@
 # CPP
 C++ programming 
 
-CPP Trainig codes
+This repository contains
+1) Creating Class
+2) Using objects
+3) Default Variables
+4) Function Overloading
+5) Binary Operator Overloading
+6) Unary Operator Overlaoding
