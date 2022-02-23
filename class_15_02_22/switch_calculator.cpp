@@ -1,3 +1,6 @@
+// Here we have implemented simple arithmetic calculator: Included functions such as addition, substraction, multiplication, division,
+// Modulo, Factorial using switch case
+
 #include<iostream>
 
 using namespace std;
@@ -23,6 +26,8 @@ class Calculator {
 			return input1-input2;
 		}
 */
+
+		// Arithmetic Operations Member Functions
 		int add();
 		int sub();
 
@@ -75,6 +80,7 @@ int main()
 		cout<<"1.Addition"<< endl << "2.substraction" << endl << "3.Multiplication" << endl << "4.Division" << endl << "5.Modulo" << endl << "6.Factorial" <<endl << "7.Quit" << endl;
 		cin >> ch;
 
+		// Switch Case Implementation
 		switch(ch)
 		{
 			case 1:

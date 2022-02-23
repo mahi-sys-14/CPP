@@ -1,3 +1,5 @@
+// Here we are implementing two member function to class Measure to calculate area and volume of square and cuboid resp.
+
 #include<iostream>
 
 using namespace std;
@@ -15,11 +17,13 @@ class Measure {
 			height = c;
 		}
 
+		// Area of square
 		int area()
 		{
 			return length*width;
 		}
 
+		// Volume of Cuboid
 		int volume()
 		{
 			return length*width*height;

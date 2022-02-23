@@ -1,3 +1,5 @@
+// This is simple program to calculate square of number taken as input from user
+
 #include<iostream>
 using namespace std;
 

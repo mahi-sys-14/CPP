@@ -1,3 +1,5 @@
+// In this program we are passing object as an argument
+
 #include<iostream>
 
 using namespace std;

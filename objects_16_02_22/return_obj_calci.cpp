@@ -1,3 +1,5 @@
+// Here we are returning object from a member function of class
+
 #include<iostream>
 
 using namespace std;
