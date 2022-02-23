@@ -1,3 +1,5 @@
+// In this program we are making a function display() outside the class friend to both the class rectangle and square
+
 #include<iostream>
 using namespace std;
 

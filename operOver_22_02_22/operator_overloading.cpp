@@ -1,3 +1,5 @@
+// This code is displaying operator overloading of different binary operators (+,-,*,/,%)
+
 #include<iostream>
 using namespace std;
 
@@ -81,7 +83,7 @@ int main()
 	c1.display();
 	c2.display();
 
-	cout<<"ADD"<<endl;
+	cout<<"Addition"<<endl;
 	Complex c3;
 	c3 = c2+c1;
 	c3.display();
@@ -89,18 +91,22 @@ int main()
 //	c3 = c1.operator + (c2);
 //	c3.display();
 
+	cout << "Substraction" << endl;
 	Complex c4;
 	c4 = c2-c1;
 	c4.display();
 
+	cout << "Multiplication" << endl;
 	Complex c5;
 	c5 = c2*c1;
 	c5.display();
 	
+	cout << "Division" << endl;
 	Complex c6;
 	c6 = c2/c1;
 	c6.display();
 
+	cout << "Modulo" << endl;
 	Complex c7;
 	c7 = c2%c1;
 	c7.display();

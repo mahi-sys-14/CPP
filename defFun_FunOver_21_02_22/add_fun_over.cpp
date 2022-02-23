@@ -1,3 +1,5 @@
+// In this program addition function is overloaded as sum(), by passing different arguments of different numbers, orders and data types
+
 #include<iostream>
 using namespace std;
 /*
