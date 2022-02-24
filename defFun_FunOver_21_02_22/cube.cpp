@@ -1,3 +1,5 @@
+// A simple program to calculate cube 
+
 #include<iostream>
 using namespace std;
 

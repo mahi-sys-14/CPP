@@ -1,3 +1,6 @@
+// This is a simple program to make a function outside the class friend to a class
+// Here we are making add function a friend to class B
+
 #include<iostream>
 using namespace std;
 

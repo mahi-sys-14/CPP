@@ -1,3 +1,5 @@
+// This is a sample program of static integer
+
 #include<iostream>
 using namespace std;
 
