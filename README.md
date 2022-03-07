@@ -13,3 +13,10 @@ This repository contains code for following Concepts
 	a) basic-class conversion (int, char)
 	b) class-basic conversion
 	c) class-class conversion
+9) Inheritance
+
+	a) Single Inheritance
+	b) Multilevel Inheritance
+	c) Multiple Inheritance
+	d) Hierarchial Inheritance
+	e) Hybrid Inheritance
