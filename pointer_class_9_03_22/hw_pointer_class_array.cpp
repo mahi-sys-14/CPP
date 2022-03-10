@@ -44,6 +44,9 @@ int main()
 
 	ptr=&d[0];
 
+	//ptr->getdata();
+	//ptr->printdata();
+	
 	for(int i=0; i<3; i++)
 	{
 		ptr->getdata();
