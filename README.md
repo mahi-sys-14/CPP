@@ -10,6 +10,7 @@ This repository contains code for following Concepts
 6) Unary Operator Overlaoding
 7) New and Delete Operator Overloading
 8) Type Conversions
+
 	a) basic-class conversion (int, char)
 	b) class-basic conversion
 	c) class-class conversion
@@ -20,3 +21,7 @@ This repository contains code for following Concepts
 	c) Multiple Inheritance
 	d) Hierarchial Inheritance
 	e) Hybrid Inheritance
+10) Virtual and pure Virtual Functions
+11) Exception Handling
+12) File Handling
+
