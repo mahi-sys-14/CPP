@@ -24,4 +24,13 @@ This repository contains code for following Concepts
 10) Virtual and pure Virtual Functions
 11) Exception Handling
 12) File Handling
+13) Templates
+14) Standard Template Library [STL]
 
+	a) Container
+
+		i) Vector
+		ii) List
+		iii) Map
+	b) Algorithm
+	c) Iterators
