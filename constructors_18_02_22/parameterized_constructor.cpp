@@ -28,6 +28,11 @@ class Point
 		cout << "Getting Value of y" << endl;
         	return y;
     	}
+
+	void display()
+	{
+		cout << "x: " << x << endl << "y: " << y << endl;
+	}
 };
  
 int main()
@@ -37,6 +42,8 @@ int main()
  
     // Access values assigned by constructor
     cout << "p1.x = " << p1.getX() << endl << "p1.y = " << p1.getY() << endl;
+
+    p1.display();
 
     return 0;
 }
