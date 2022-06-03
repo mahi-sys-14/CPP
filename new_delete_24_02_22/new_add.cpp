@@ -31,8 +31,7 @@ int main()
 
         sum=*ptr1+ *ptr2;
         cout<< "sum is :"<<sum<<endl;
-    
-    
+     
         // a2 =new A;
         
 	// Printing size of pointer and class: values and address
@@ -42,7 +41,7 @@ int main()
         // cout<<"sizeof(a2):"<< sizeof(a2)<<endl; 
        
        
-    //   int arr[5];
+       // int arr[5];
        int *arr=new int[5];
        a3=new A [4];
 

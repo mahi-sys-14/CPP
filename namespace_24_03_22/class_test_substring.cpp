@@ -6,6 +6,13 @@
 
 using namespace std;
 
+
+int length_unique_substring(string aaa, int x, int y)
+{
+		
+
+}
+
 int main()
 {
 	vector<char> v;
@@ -13,24 +20,18 @@ int main()
 	string s;
 
 	cin >> s;
-	int i=0, l=0, value;
+	int i=0, j=0, ssl=0, value;
 
 	cout << "string: " << s << endl;
 
 	vector<char> :: iterator p = v.begin();
 
-	while(s[i])
+	for(i=0; i<s.length(); i++)
 	{
-		v.push_back();
-		if(s[i])
+		for(j=i; j<s.length; i++)
 		{
-			
-			count++;
+			ssl += length_unique_substring(s, i, j);
 		}
-		else
-		{
-			count--;
-		}		
 	}
 
 	return 0;

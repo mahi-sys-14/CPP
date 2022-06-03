@@ -34,7 +34,7 @@ class Point
 		cout << "x: " << x << endl << "y: " << y << endl;
 	}
 };
- 
+
 int main()
 {
     // Constructor called
